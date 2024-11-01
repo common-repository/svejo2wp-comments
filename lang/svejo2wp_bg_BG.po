@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Svejo2WP Comments\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boyan Yurukov <yurukov@gmail.com>\n"
+"Language-Team: Boyan Yurukov <yurukov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+msgid "Excluded usernames has been saved."
+msgstr "Забранените потребители са променени."
+
+msgid "Comment template has been saved."
+msgstr "Шаблона за коментарите е променен."
+
+msgid "Comment template should contain"
+msgstr "Шаблона за коментарите трябва да съдържа"
+
+msgid "Settings restored to defaults."
+msgstr "Настройките по подразбиране са възстановени"
+
+msgid "You don't have enough access rights."
+msgstr "Нямаш достатъчно права за достъп."
+
+msgid "Svejo2WP Settings"
+msgstr "Настройки на Svejo2WP"
+
+msgid "This plugin makes it possible to load comments on the blog post from"
+msgstr "Тази добавка позволява изтегленето на коментари в блога ви от"
+
+msgid "Created by"
+msgstr "Създадена от"
+
+msgid "Boyan Yurukov"
+msgstr "Боян Юруков"
+
+msgid "Visit my"
+msgstr "Посетете"
+
+msgid "blog"
+msgstr "блога ми"
+
+msgid "for more updates and news"
+msgstr "за нови версии и новини"
+
+msgid "Exclude Svejo usernames"
+msgstr "Забранени потребители на Svejo"
+
+msgid "Comma separated. Comments by these authors will not be added. When an author is added, his/her old comments will be kept. When an author is removed, all his/hers old comments will eventually be imported from Svejo."
+msgstr "Трябва да са разделени със запетайка. Коментарите на тези автори няма да бъдат добавяни. Ако някой потребител е добавен тук, старите му коментари няма да бъдат изтрити. Ако потребител бъде махнат от списъка, пропуснатите му коментари ще бъдат заредени в даден момент от Svejo."
+
+msgid "Comment template"
+msgstr "Шаблон за коментари"
+
+msgid "You can use the following tags"
+msgstr "Може да използвате следните тагове"
+
+msgid "address of the comment page"
+msgstr "адрес на самия коментар"
+
+msgid "address of the voting page"
+msgstr "адрес на страницата за гласуване"
+
+msgid "address of the author's page"
+msgstr "адрес на страницата на автора"
+
+msgid "comment date"
+msgstr "дата на коментара"
+
+msgid "the name of the author"
+msgstr "име на коментиращия"
+
+msgid "the text of the comment (required)"
+msgstr "текст на коментара (задължителен)"
+
+msgid "Save"
+msgstr "Запиши промените"
+
+msgid "Restore settings to default."
+msgstr "Възстанови настройките по подразбиране"
+
+msgid "This will undo all your changes!"
+msgstr "Това ще премахне промените ви!"
+
+msgid "Restore to defaults"
+msgstr "Възстанови по подразбиране"
+
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Съжалявам, но не ви е позволено да отваряте тази страница."
+
